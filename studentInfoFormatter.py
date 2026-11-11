@@ -2,7 +2,7 @@ firstName = input("Enter First Name: ").strip()
 lastName = input("Enter Last Name: ").strip()
 sectionName = input("Enter Section: ")
 favoriteSubject = input("Enter Favorite Subject: ")
-characterCount = len(firstName + lastName)
+characterCount = len(firstName + " " + lastName)
 
 print("\nFormatted Output:")
 print(
