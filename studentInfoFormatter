@@ -1,4 +1,0 @@
-firstName = input("Enter First Name: ")
-lastName = input("Enter Last Name: ")
-sectionName = input("Enter Section: ")
-favoriteSubject = input("Enter Favorite Subject: ")
